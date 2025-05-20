@@ -13,12 +13,12 @@ A null move is denoted as *none*.
 
 ### Chess
 
-As in UCi, moves are encoded as long [algebraic notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
+As in UCI, moves are encoded as long [algebraic notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
 and positions as [FEN strings](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation).
 
 ### American checkers
 
-Moves are positions are formatted as per the [PDN format](https://en.wikipedia.org/wiki/Portable_Draughts_Notation).
+Moves and positions are formatted as per the [PDN format](https://en.wikipedia.org/wiki/Portable_Draughts_Notation).
 
 ### Nine men's morris
 
